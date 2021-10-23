@@ -1,2 +1,3 @@
 HI Mahesh
-This file contains String related functions
+This file contains String related function
+Udatin gthis files
